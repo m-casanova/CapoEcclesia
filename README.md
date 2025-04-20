@@ -1,4 +1,5 @@
 # Capo Ecclesia
+* Versione 1.103: fix minori
 * Versione 1.101: fix esportazione
 * Versione 1.0: versione iniziale
 
